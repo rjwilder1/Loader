@@ -1,0 +1,28 @@
+﻿  Main.cpp
+D:\Code\C++\Loader\Mem.h(20,43): error C2065: 'TH32CS_SNAPPROCESS': undeclared identifier
+D:\Code\C++\Loader\Mem.h(20,18): error C3861: 'CreateToolhelp32Snapshot': identifier not found
+D:\Code\C++\Loader\Mem.h(23,4): error C2065: 'PROCESSENTRY32': undeclared identifier
+D:\Code\C++\Loader\Mem.h(23,19): error C2146: syntax error: missing ';' before identifier 'procEntry'
+D:\Code\C++\Loader\Mem.h(23,19): error C2065: 'procEntry': undeclared identifier
+D:\Code\C++\Loader\Mem.h(24,4): error C2065: 'procEntry': undeclared identifier
+D:\Code\C++\Loader\Mem.h(24,30): error C2065: 'procEntry': undeclared identifier
+D:\Code\C++\Loader\Mem.h(26,31): error C2065: 'procEntry': undeclared identifier
+D:\Code\C++\Loader\Mem.h(26,8): error C3861: 'Process32First': identifier not found
+D:\Code\C++\Loader\Mem.h(30,20): error C2065: 'procEntry': undeclared identifier
+D:\Code\C++\Loader\Mem.h(32,16): error C2065: 'procEntry': undeclared identifier
+D:\Code\C++\Loader\Mem.h(35,36): error C2065: 'procEntry': undeclared identifier
+D:\Code\C++\Loader\Mem.h(35,14): error C3861: 'Process32Next': identifier not found
+D:\Code\C++\Loader\Mem.h(46,43): error C2065: 'TH32CS_SNAPMODULE': undeclared identifier
+D:\Code\C++\Loader\Mem.h(46,63): error C2065: 'TH32CS_SNAPMODULE32': undeclared identifier
+D:\Code\C++\Loader\Mem.h(46,18): error C3861: 'CreateToolhelp32Snapshot': identifier not found
+D:\Code\C++\Loader\Mem.h(49,4): error C2065: 'MODULEENTRY32': undeclared identifier
+D:\Code\C++\Loader\Mem.h(49,18): error C2146: syntax error: missing ';' before identifier 'modEntry'
+D:\Code\C++\Loader\Mem.h(49,18): error C2065: 'modEntry': undeclared identifier
+D:\Code\C++\Loader\Mem.h(50,4): error C2065: 'modEntry': undeclared identifier
+D:\Code\C++\Loader\Mem.h(50,29): error C2065: 'modEntry': undeclared identifier
+D:\Code\C++\Loader\Mem.h(51,30): error C2065: 'modEntry': undeclared identifier
+D:\Code\C++\Loader\Mem.h(51,8): error C3861: 'Module32First': identifier not found
+D:\Code\C++\Loader\Mem.h(55,20): error C2065: 'modEntry': undeclared identifier
+D:\Code\C++\Loader\Mem.h(57,32): error C2065: 'modEntry': undeclared identifier
+D:\Code\C++\Loader\Mem.h(60,35): error C2065: 'modEntry': undeclared identifier
+D:\Code\C++\Loader\Mem.h(60,14): error C3861: 'Module32Next': identifier not found
